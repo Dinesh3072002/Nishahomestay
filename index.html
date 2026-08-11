@@ -1642,7 +1642,20 @@
       alt="vanakam da"
     />
   </div>
+<script>
+    const heroImage = document.querySelector(".hero-image");
+    const heroOverlay = document.querySelector(".hero-overlay");
 
+    if (heroImage.complete) {
+        heroImage.style.opacity = "1";
+        heroOverlay.style.opacity = "1";
+    } else {
+        heroImage.addEventListener("load", () => {
+            heroImage.style.opacity = "1";
+            heroOverlay.style.opacity = "1";
+        });
+    }
+</script>
 
   <script src="script.js"></script>
 
