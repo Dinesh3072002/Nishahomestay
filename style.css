@@ -211,9 +211,7 @@ a {
   display: flex;
   align-items: center;
 background-color: #18221d;
-  /* background:
-    url("images/hero.webp")
-    center / cover no-repeat; */
+  
   overflow: hidden;
   color: white;
 }
