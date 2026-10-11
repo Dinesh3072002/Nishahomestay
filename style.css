@@ -1962,6 +1962,41 @@ background-color: #18221d;
   transform: translateY(0);
 }
 
+
+
+
+.footer-credit {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.footer-credit p {
+  margin: 0;
+}
+
+.footer-credit a {
+  font-size: 13px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.footer-bottom {
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .footer-bottom {
+    align-items: flex-start;
+  }
+
+  .footer-credit {
+    margin-bottom: 8px;
+  }
+}
+
+
 /* =========================================
    RESPONSIVE
 ========================================= */
