@@ -1,9 +1,0 @@
-# robots.txt for https://www.nishahomestay.com/
-User-agent: *
-Allow: /
-Allow: /images/
-Allow: /style.css
-Allow: /script.js
-
-# Sitemap index
-Sitemap: https://www.nishahomestay.com/sitemap.xml
