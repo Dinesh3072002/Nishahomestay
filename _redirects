@@ -1,0 +1,9 @@
+# Canonical 301 Redirects for Directory Trailing Slashes
+/homestay-near-isha-yoga-center    /homestay-near-isha-yoga-center/    301!
+/rooms-near-adiyogi                /rooms-near-adiyogi/                301!
+/rooms                             /rooms/                             301!
+/location                          /location/                          301!
+
+# 404 Catch-all
+/*                                 /404.html                           404
+
