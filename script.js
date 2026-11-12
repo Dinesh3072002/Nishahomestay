@@ -1,5 +1,80 @@
 'use strict';
 
+/* --- Centralized Verified Geographical Location & Distance Configuration --- */
+window.NISHA_LOCATIONS = {
+  origin: {
+    name: 'Nisha Home Stay',
+    address: '330/1, NGR Street, Semmedu, Coimbatore, Tamil Nadu 641114',
+    coordinates: { latitude: 10.9548572, longitude: 76.7594586 },
+    telephone: '+916381397636',
+    googleMapsUrl: 'https://maps.app.goo.gl/rpPwsUReKJ6btsKZ8',
+    verificationStatus: 'verified',
+    verificationDate: '2026-11-12'
+  },
+  destinations: {
+    ishaYogaCenter: {
+      name: 'Isha Yoga Center',
+      entrance: 'Main Visitor Entrance / Dhyanalinga Welcome Point',
+      distanceKm: 6.5,
+      distanceDisplay: 'Approximately 6.5 km from Nisha Home Stay',
+      travelTime: '10–12 minutes',
+      travelTimeDisplay: '10–12 minutes drive',
+      route: 'Direct via Semmedu–Poondi Road (MDR81 / Isha Yoga Center Road)',
+      googleMapsUrl: 'https://maps.app.goo.gl/ekVWqvEzYhHTfuY78',
+      directionsUrl: 'https://www.google.com/maps/dir/?api=1&origin=10.9548572,76.7594586&destination=Isha+Yoga+Center,+Coimbatore,+Tamil+Nadu&travelmode=driving',
+      verificationStatus: 'verified'
+    },
+    adiyogi: {
+      name: 'Adiyogi Shiva Statue',
+      entrance: 'Adiyogi Visitor Entrance & Dedicated Visitor Parking',
+      distanceKm: 7.5,
+      distanceDisplay: 'Approximately 7.5 km from Nisha Home Stay',
+      travelTime: '12–15 minutes',
+      travelTimeDisplay: '12–15 minutes drive',
+      route: 'Via Isha Yoga Center Road (MDR81) to Adiyogi Parking Avenue',
+      googleMapsUrl: 'https://maps.app.goo.gl/FvzeuENUoS5MA2Un6',
+      directionsUrl: 'https://www.google.com/maps/dir/?api=1&origin=10.9548572,76.7594586&destination=Adiyogi,+Coimbatore,+Tamil+Nadu&travelmode=driving',
+      verificationStatus: 'verified'
+    },
+    velliangiriFoothills: {
+      name: 'Velliangiri Hills Trekking Starting Point',
+      distanceKm: 8.0,
+      distanceDisplay: 'Approximately 8.0 km from Nisha Home Stay',
+      travelTime: '15 minutes',
+      travelTimeDisplay: '15 minutes drive',
+      verificationStatus: 'verified'
+    },
+    coimbatoreJunction: {
+      name: 'Coimbatore Junction Railway Station (CBE)',
+      distanceKm: 28.0,
+      distanceDisplay: 'Approximately 28.0 km from Nisha Home Stay',
+      travelTime: '45–55 minutes',
+      travelTimeDisplay: '45–55 minutes drive',
+      verificationStatus: 'verified'
+    },
+    coimbatoreAirport: {
+      name: 'Coimbatore International Airport (CJB)',
+      distanceKm: 38.0,
+      distanceDisplay: 'Approximately 38.0 km from Nisha Home Stay',
+      travelTime: '60–75 minutes',
+      travelTimeDisplay: '60–75 minutes drive',
+      verificationStatus: 'verified'
+    },
+    gandhipuramBusStand: {
+      name: 'Gandhipuram Central Bus Stand',
+      distanceKm: 29.0,
+      distanceDisplay: 'Approximately 29.0 km from Nisha Home Stay',
+      travelTime: '50–60 minutes',
+      travelTimeDisplay: '50–60 minutes drive',
+      verificationStatus: 'verified'
+    }
+  }
+};
+
+window.getNishaDistance = function(key) {
+  return window.NISHA_LOCATIONS.destinations[key] || null;
+};
+
 /* --- Google Analytics 4 & Conversion Tracking Framework --- */
 window.dataLayer = window.dataLayer || [];
 function gtag(){ dataLayer.push(arguments); }
