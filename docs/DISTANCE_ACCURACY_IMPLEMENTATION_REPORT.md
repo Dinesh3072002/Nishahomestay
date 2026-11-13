@@ -3,19 +3,7 @@
 **Date of Implementation:** 12 November 2026  
 **Auditor / Engineer:** Principal Technical SEO Engineer, Local SEO & Google Maps Analyst, Senior Web QA Architect  
 **Website:** [https://www.nishahomestay.com/](https://www.nishahomestay.com/)  
-**Document Location:** `docs/DISTANCE_ACCURACY_IMPLEMENTATION_REPORT.md`  
-
----
-
-## 1. Executive Summary
-
-A comprehensive, website-wide audit and accuracy correction was executed for **Nisha Home Stay** to identify and resolve geographical distance ambiguities, conflated travel time claims, and disparate hardcoded references.
-
-All location information across the site has now been synchronized with independently verified mapping data and centralized into a single canonical source of truth: [`data/locations.json`](file:///c:/Users/dhars/OneDrive/Documents/nisha-home-stay-updated/data/locations.json).
-
-### Key Accomplishments
-1. **Accurate Road Distance Verification**:
-   * **Isha Yoga Center (Main Visitor Gate):** **Approximately 6.5 km** from Nisha Home Stay (10–12 minutes driving time).
+**Document Location:** `docs/DISTANCE_ACCURAC    * **Isha Yoga Center (Main Visitor Gate):** **Approximately 6.5 km** from Nisha Home Stay (10–12 minutes driving time).
    * **Adiyogi Shiva Statue (Visitor Parking & Plaza):** **Approximately 7.5 km** from Nisha Home Stay (12–15 minutes driving time).
 2. **Separation of Distance and Travel Time**: Unbundled previous conflated claims (such as *"10 Mins to Isha Yoga Center & Adiyogi"*), ensuring travel time is never confused with geographical road distance.
 3. **Elimination of Ambiguities**: Removed false precision claims like *"exactly 6.5 km"* and replaced them with standard, defensible terminology (*"Approximately 6.5 km from Nisha Home Stay"*).
