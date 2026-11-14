@@ -180,7 +180,7 @@ const newSchemaIndex = {
           "name": "How far is Nisha Home Stay from Isha Yoga Center and Adiyogi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nisha Home Stay is located in Semmedu, approximately 6.5 km from the Isha Yoga Center entrance and about 7.5 km from the Adiyogi Shiva Statue. By road, travel time is approximately 10 to 12 minutes by car, auto, or scooter."
+            "text": "Nisha Home Stay is located in Semmedu. Isha Yoga Center is approximately 1.8 km from Nisha Home Stay (8 minutes driving), and Adiyogi Shiva Statue is approximately 2.2 km from Nisha Home Stay (10 minutes driving). By road, travel time is approximately 8 to 10 minutes by car, auto, or scooter."
           }
         },
         {

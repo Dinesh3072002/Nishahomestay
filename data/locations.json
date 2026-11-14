@@ -9,16 +9,17 @@
     "telephone": "+916381397636",
     "googleMapsUrl": "https://maps.app.goo.gl/rpPwsUReKJ6btsKZ8",
     "verificationStatus": "verified",
-    "verificationDate": "2026-11-12"
+    "verificationDate": "2026-11-13"
   },
   "destinations": {
     "ishaYogaCenter": {
       "name": "Isha Yoga Center",
       "entrance": "Main Visitor Entrance / Dhyanalinga Welcome Point",
-      "distanceKm": 6.5,
-      "distanceDisplay": "Approximately 6.5 km from Nisha Home Stay",
-      "travelTime": "10–12 minutes",
-      "travelTimeDisplay": "10–12 minutes drive",
+      "distanceKm": 1.8,
+      "distanceDisplay": "Approximately 1.8 km from Nisha Home Stay",
+      "travelTime": "8 minutes",
+      "travelTimeDisplay": "8 minutes driving",
+      "standardizedDescription": "Isha Yoga Center is approximately 1.8 km from Nisha Home Stay (8 minutes driving).",
       "route": "Direct via Semmedu–Poondi Road (MDR81 / Isha Yoga Center Road)",
       "coordinates": {
         "latitude": 10.9628,
@@ -27,15 +28,16 @@
       "googleMapsUrl": "https://maps.app.goo.gl/ekVWqvEzYhHTfuY78",
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=10.9548572,76.7594586&destination=Isha+Yoga+Center,+Coimbatore,+Tamil+Nadu&travelmode=driving",
       "verificationStatus": "verified",
-      "verificationDate": "2026-11-12"
+      "verificationDate": "2026-11-13"
     },
     "adiyogi": {
       "name": "Adiyogi Shiva Statue",
       "entrance": "Adiyogi Visitor Entrance & Dedicated Visitor Parking",
-      "distanceKm": 7.5,
-      "distanceDisplay": "Approximately 7.5 km from Nisha Home Stay",
-      "travelTime": "12–15 minutes",
-      "travelTimeDisplay": "12–15 minutes drive",
+      "distanceKm": 2.2,
+      "distanceDisplay": "Approximately 2.2 km from Nisha Home Stay",
+      "travelTime": "10 minutes",
+      "travelTimeDisplay": "10 minutes driving",
+      "standardizedDescription": "Adiyogi Shiva Statue is approximately 2.2 km from Nisha Home Stay (10 minutes driving).",
       "route": "Via Isha Yoga Center Road (MDR81) to Adiyogi Parking Avenue",
       "coordinates": {
         "latitude": 10.9724,
@@ -44,19 +46,19 @@
       "googleMapsUrl": "https://maps.app.goo.gl/FvzeuENUoS5MA2Un6",
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&origin=10.9548572,76.7594586&destination=Adiyogi,+Coimbatore,+Tamil+Nadu&travelmode=driving",
       "verificationStatus": "verified",
-      "verificationDate": "2026-11-12"
+      "verificationDate": "2026-11-13"
     },
     "velliangiriFoothills": {
-      "name": "Velliangiri Hills Trekking Starting Point",
-      "entrance": "Poondi Temple Base",
-      "distanceKm": 8.0,
-      "distanceDisplay": "Approximately 8.0 km from Nisha Home Stay",
-      "travelTime": "15 minutes",
-      "travelTimeDisplay": "15 minutes drive",
+      "name": "Velliangiri Foothills & Trekking",
+      "entrance": "Poondi Temple Base / Trekking Starting Point",
+      "distanceKm": 5.0,
+      "distanceDisplay": "Approximately 5 km from Nisha Home Stay.",
+      "travelTime": "10 minutes",
+      "travelTimeDisplay": "10 minutes drive",
       "route": "Via Poondi Road to Foothills Temple",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Velliangiri+Hills+Trekking+Starting+Point+Coimbatore",
       "verificationStatus": "verified",
-      "verificationDate": "2026-11-12"
+      "verificationDate": "2026-11-13"
     },
     "coimbatoreJunction": {
       "name": "Coimbatore Junction Railway Station (CBE)",
@@ -67,7 +69,7 @@
       "route": "Via Siruvani Main Road / Perur",
       "googleMapsUrl": "https://maps.app.goo.gl/rpPwsUReKJ6btsKZ8",
       "verificationStatus": "verified",
-      "verificationDate": "2026-11-12"
+      "verificationDate": "2026-11-13"
     },
     "coimbatoreAirport": {
       "name": "Coimbatore International Airport (CJB)",
@@ -78,7 +80,7 @@
       "route": "Via Avinashi Road & Siruvani Main Road",
       "googleMapsUrl": "https://maps.app.goo.gl/rpPwsUReKJ6btsKZ8",
       "verificationStatus": "verified",
-      "verificationDate": "2026-11-12"
+      "verificationDate": "2026-11-13"
     },
     "gandhipuramBusStand": {
       "name": "Gandhipuram Central Bus Stand",
@@ -89,8 +91,7 @@
       "route": "Via Perur / Thondamuthur",
       "googleMapsUrl": "https://maps.app.goo.gl/rpPwsUReKJ6btsKZ8",
       "verificationStatus": "verified",
-      "verificationDate": "2026-11-12"
+      "verificationDate": "2026-11-13"
     }
   }
 }
-
