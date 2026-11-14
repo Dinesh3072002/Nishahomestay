@@ -33,7 +33,7 @@
   <!-- Homestay Near Isha Yoga Center -->
   <url>
     <loc>https://www.nishahomestay.com/homestay-near-isha-yoga-center/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -43,6 +43,22 @@
     <image:image>
       <image:loc>https://www.nishahomestay.com/images/room1.webp</image:loc>
       <image:title>AC Room for Isha Visitors</image:title>
+    </image:image>
+  </url>
+
+  <!-- Budget Stay Near Isha Yoga Center -->
+  <url>
+    <loc>https://www.nishahomestay.com/budget-stay-isha/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/hero-banner.webp</image:loc>
+      <image:title>Budget Stay Near Isha Yoga Center Coimbatore</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/bedroom2.webp</image:loc>
+      <image:title>Budget Rooms Near Isha Yoga Center</image:title>
     </image:image>
   </url>
 
@@ -85,12 +101,96 @@
   <!-- Location & Directions -->
   <url>
     <loc>https://www.nishahomestay.com/location/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.nishahomestay.com/images/exterior.webp</image:loc>
       <image:title>Nisha Home Stay Location Semmedu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Travel Blog & Accommodation Guides Hub -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/hero-banner.webp</image:loc>
+      <image:title>Travel and Accommodation Guides Near Isha Yoga Center</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 1: How to Find a Budget Stay Near Isha Yoga Center -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/budget-stay-near-isha-yoga-center/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/exterior.webp</image:loc>
+      <image:title>How to Find a Budget Stay Near Isha Yoga Center Coimbatore</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 2: Where to Stay Near Adiyogi -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/where-to-stay-near-adiyogi/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/surroundings.webp</image:loc>
+      <image:title>Where to Stay Near Adiyogi Shiva Statue in Coimbatore</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 3: Guide to Finding Rooms Near Isha Yoga Center -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/rooms-near-isha-yoga-center/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/nisha-bedroom.webp</image:loc>
+      <image:title>Guide to Finding Rooms Near Isha Yoga Center</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 4: Family Accommodation Near Isha Yoga Center -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/family-stay-near-isha-yoga-center/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/nisha-living-room.webp</image:loc>
+      <image:title>Family Accommodation Near Isha Yoga Center Coimbatore</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 5: Semmedu Coimbatore Travel Guide -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/semmedu-travel-guide/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/food2.webp</image:loc>
+      <image:title>Semmedu Coimbatore Travel Guide Isha Adiyogi Velliangiri</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 6: Isha Yoga Center Visitor Accommodation Guide -->
+  <url>
+    <loc>https://www.nishahomestay.com/blog/isha-yoga-center-visitor-accommodation-guide/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nishahomestay.com/images/room1.webp</image:loc>
+      <image:title>Isha Yoga Center Visitor Accommodation and Travel Guide</image:title>
     </image:image>
   </url>
 

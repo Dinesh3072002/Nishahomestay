@@ -97,6 +97,7 @@ async function runTestSuite() {
   const pagesToTest = [
     { url: '/', name: 'Homepage' },
     { url: '/homestay-near-isha-yoga-center/', name: 'Homestay Near Isha' },
+    { url: '/budget-stay-isha/', name: 'Budget Stay Near Isha' },
     { url: '/rooms-near-adiyogi/', name: 'Rooms Near Adiyogi' },
     { url: '/rooms/', name: 'Rooms & Tariff' },
     { url: '/location/', name: 'Location & Directions' }
